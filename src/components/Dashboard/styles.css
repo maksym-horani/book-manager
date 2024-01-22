@@ -1,0 +1,34 @@
+.overview .swiper {
+  max-width: 900px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.overview .swiper-slide {
+  background-image: url("./back.svg");
+  background-position: center;
+  background-size: cover;
+  width: 250px;
+  height: 300px;
+  border-radius: 18px;
+}
+
+.reading {
+  max-width: 250px;
+}
+
+.reading .swiper {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 240px;
+  height: 100%;
+}
+
+.reading .swiper-slide {
+  background-image: url("./back.svg");
+  background-position: center;
+  background-size: cover;
+  width: 250px;
+  height: 260px;
+  border-radius: 18px;
+}
